@@ -8,7 +8,7 @@
   
 <br />
 
-## 🛠 &nbsp;Mastered Skills
+## 🔥 &nbsp;Mastered Skills
 <p align="left">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,redux,ts,js,html,css,sass,bootstrap,graphql,postgres,postman,azure,docker,vscode,visualstudio,git,github&perline=10" />
 </p>
@@ -21,13 +21,17 @@
 </p>
 
 <br /><br />
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrrmuniz&hide=html&layout=normal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br /><br />
 ## ✉ &nbsp;Contact
 <p align="left">
-  <a href="https://www.instagram.com/victorrrmuniz/">
-    <img src="https://skillicons.dev/icons?i=instagram&perline=1" />
-  </a>
+  <img align="center" src="https://img.shields.io/badge/-victorrmunizz@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
   <a href="https://www.linkedin.com/in/victormunizz/">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+    <img align="center" src="https://img.shields.io/badge/-victormunizz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/victorrrmuniz/">
+    <img align="center" src="https://img.shields.io/badge/-victorrrmuniz-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 </p>
 
