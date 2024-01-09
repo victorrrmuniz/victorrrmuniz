@@ -2,7 +2,7 @@
 <h1>Hi there 👋, I'm Víctor Muniz</h1>  
 
 - 🔥 Full Stack developer with 5 years of work experience
-- 🔭 I'm currently open to work!
+- 🔭 I'm currently working on ePharma PBM!
 - ⚡ Always learning! Currently accelerating my career with Ignite by <a href="https://www.rocketseat.com.br/">Rocketseat</a> enhancing my skills in React, Next.js, React Native and Node.js
   
   
